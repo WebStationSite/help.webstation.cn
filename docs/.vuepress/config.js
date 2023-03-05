@@ -17,6 +17,11 @@ module.exports = {
                     { text: '官网', link: 'https://enazo.cn' }
                 ]
             }
+        ],
+        sidebar: [
+            '/',
+            '/隐私政策.md',
+            ['/用户协议', '用户协议']
         ]
     }
 }
