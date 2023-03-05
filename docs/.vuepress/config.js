@@ -1,4 +1,4 @@
 module.exports = {
-    title: 'Help WebStation',
-    description: 'WebStation 文档中心'
+    title: 'Hi, WebStation',
+    description: 'WebStation Help Center'
 }
